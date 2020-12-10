@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{7601EC3B-AA80-47FB-9A25-EED9D2762AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseSwaggerFromWebApplication", "UseSwaggerFromWebApplication\UseSwaggerFromWebApplication.csproj", "{683C7376-2B68-4984-8913-74B31728B46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7601EC3B-AA80-47FB-9A25-EED9D2762AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7601EC3B-AA80-47FB-9A25-EED9D2762AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7601EC3B-AA80-47FB-9A25-EED9D2762AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7601EC3B-AA80-47FB-9A25-EED9D2762AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683C7376-2B68-4984-8913-74B31728B46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683C7376-2B68-4984-8913-74B31728B46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683C7376-2B68-4984-8913-74B31728B46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683C7376-2B68-4984-8913-74B31728B46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0C2E73-10FB-47D7-B36C-F81041C37E74}
+	EndGlobalSection
+EndGlobal
